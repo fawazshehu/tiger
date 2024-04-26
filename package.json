@@ -1,7 +1,6 @@
 {
   "name": "tiger",
   "version": "1.0.0",
-  "description": "",
   "default": "index.html",
   "scripts": {
     "start": "index.html",
@@ -16,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/fawazshehu/tiger/issues"
   },
-  "homepage": "https://github.com/fawazshehu/tiger#readme"
+  "homepage": "https://github.com/fawazshehu/tiger#readme",
+  "main": "tigerr.js",
+  "description": ""
 }
